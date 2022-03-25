@@ -18,8 +18,8 @@ My first landing page with tailwind and Javascript vanila, that is responsive an
 ### Desktop
 ![](https://i.imgur.com/gOcrUqr.png)
 ### Links
-- Solution URL: [https://github.com/DenilDenilson/BlogrLandingPage](https://github.com/DenilDenilson/BlogrLandingPage "Repositorio")
-- Live site URL: [https://denildenilson.github.io/BlogrLandingPage/](https://denildenilson.github.io/BlogrLandingPage/ "Live site URL")
+- Solution URL: [https://github.com/DenilDenilson/tipCalculator](https://github.com/DenilDenilson/tipCalculator "Repositorio")
+- Live site URL: [https://denildenilson.github.io/tipCalculator/](https://denildenilson.github.io/tipCalculator/ "Live site URL")
 
 
 # My process
